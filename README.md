@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vivek</h1>
 <h3 align="center">A passionate cloud-native technologist creating simple and robust solutions.</h3>
 
-- 📝 I regularly write articles on [vivekdhami.com](vivekdhami.com)
+- 📝 I regularly write articles on [vivekdhami.com](https://www.vivekdhami.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
